@@ -14,11 +14,11 @@
 
 ## 🧭 About Me
 
-- 🇸🇳 Born in Senegal, building in the U.S., thinking globally.  
+- 🇺🇸 Born in U.S.A, spent many years in Africa (Senegal and Mauritania), building in the U.S., thinking globally.  
 - 💻 Obsessed with applied AI — especially where it touches **healthcare, accessibility, and education**.  
 - 🧠 I like taking messy real-world problems (healthcare workflows, study habits, autism care, customer support) and turning them into **clear, helpful AI agents**.  
 - 🎥 I also create **project-driven CS & AI content** on YouTube (150k+ views, 10k+ watch hours, 2,500+ subs), partnering with brands like **Brilliant** and **Notion**.  
-- 🙋🏾‍♂️ Big on community — founder of **StudentCoders of VA**, helping students take their first steps into tech.
+- 🙋🏾‍♂️ Big on community — founder of **StudentCoders of VA**, helped thousands of disadvantaged students take their first steps into tech.
 
 ---
 
