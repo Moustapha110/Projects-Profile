@@ -9,29 +9,21 @@
   <em>Creating AI systems that feel supportive, safe, and genuinely helpful — especially for the communities I love most.</em>
 </p>
 
-<p align="center">
-  <img src="/mnt/data/Screenshot 2025-11-22 at 4.45.24 PM.png"
-       alt="Moustapha Ba"
-       width="260"
-       style="border-radius: 50%;" />
-</p>
-
 ---
 
 ## 🧭 About Me
 
-- 🇺🇸 Born in **San Diego**, raised across **Mauritania and Senegal**, now building in the U.S. with a global, people-first mindset.  
+- 🇺🇸 Born in **San Diego**, raised across **Mauritania** and **Senegal**, now building in the U.S. with a global, people-first mindset.  
 - 💻 I work at the intersection of **AI, healthcare, and accessibility**, designing systems that improve lives at scale.  
-- 🧠 I enjoy turning complex, messy real-world problems into **clear, reliable, human-centered AI agents**.  
-- 🎥 I create practical, project-driven AI & CS content on YouTube  
-  (**150k+ views**, **10k+ watch hours**, **2,500+ subscribers**), partnering with **Brilliant** and **Notion**.  
-- 🌱 Founder of **StudentCoders of VA**, helping students build real projects and discover their confidence in tech.
+- 🧠 I enjoy turning complex real-world problems into **clear, reliable, human-centered AI agents**.  
+- 🎥 I create project-focused AI & CS content on YouTube (150k+ views, 10k+ watch hours, 2,500+ subs) and collaborate with brands like **Brilliant** and **Notion**.  
+- 🌱 Founder of **StudentCoders of VA**, helping students build real projects and develop confidence in tech.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Core Languages**
+**Languages**
 
 - Python · Java  
 - JavaScript / TypeScript  
@@ -41,21 +33,21 @@
 **AI & Data**
 
 - OpenAI APIs & Assistants  
-- RAG (Retrieval-Augmented Generation)  
-- Prompt design & evaluation  
-- Data cleaning & light ML  
+- Retrieval-Augmented Generation (RAG)  
+- Prompt engineering & evaluation  
+- Data cleaning & lightweight ML  
 
-**Cloud / Infra**
+**Cloud & Infra**
 
-- Microsoft Azure (AI services, deployments, security)  
+- Microsoft Azure (AI services, deployments, security best practices)  
 - REST APIs · Webhooks  
 - Basic Docker & deployment workflows  
 
 **People & Product Skills**
 
-- Clear communication & sales (closing deals, simplifying technical concepts)  
-- Product thinking (identifying the real user problem)  
-- Curriculum design & teaching (StudentCoders, YouTube)
+- Sales & communication  
+- Product thinking  
+- Teaching, curriculum design, and community leadership
 
 ---
 
@@ -63,84 +55,70 @@
 
 ### 1. MIT Pokerbots – Competitive Poker AI 🤖♠️
 
-- Built an AI bot for a variant of Texas Hold’em in the **MIT Pokerbots Tournament**.  
-- Competed against **90+ teams**, peaking at **2nd place**.  
-- Implemented fast, constraint-aware logic for betting, risk, and opponent modeling.
-
-**What it shows:**  
-I can combine probability, strategy, and tight engineering limits to ship competitive agents under pressure.
+- Developed a poker-playing AI bot for the **MIT Pokerbots Tournament**.  
+- Competed against **90+ teams**, reaching **2nd place**.  
+- Engineered efficient logic for betting, risk modeling, and opponent adaptation.
 
 ---
 
-### 2. IBA AI – Personalized Autism Care Chatbot 🧩❤️
+### 2. IBA AI – Personalized Autism Support Chatbot 🧩❤️
 
-> Inspired by my younger autistic brother. Built for our family first, then expanded for other caregivers.
+> Built for my autistic brother — now helping caregivers provide more consistent support.
 
-- A chatbot trained to “know everything” about a single autistic individual — routines, triggers, preferences, calming strategies.  
-- Uses **OpenAI APIs**, custom data, and **RAG** for context-specific support.  
-- Prioritizes **emotional safety, clarity, and privacy** over raw complexity.
-
-**Impact:**  
-Smoother caregiver handoffs, more consistent support, better day-to-day stability.
+- Personalized chatbot trained on an individual’s routines, triggers, preferences, and calming strategies.  
+- Uses **OpenAI APIs**, custom datasets, and **RAG** for tailored, safe responses.  
+- Designed for emotional clarity, consistency, and privacy.
 
 ---
 
 ### 3. Safeena – NelCura Health Virtual Assistant 🩺🌍
 
-- A **24/7 AI healthcare assistant** supporting health questions, basic triage, and wellness guidance.  
-- Built to serve **resource-limited communities**, improving access where clinicians are scarce.  
-- Includes safety rails, empathy-focused prompts, and smooth handoffs to human providers.
-
-**Demonstrates:**  
-Real-world healthcare AI design: safe, culturally aware, patient-centered.
+- A **24/7 healthcare AI assistant** supporting health questions, triage, and wellness guidance.  
+- Built with empathy, cultural awareness, and strong safety rails.  
+- Designed for **resource-limited environments**, where clinical access is limited.
 
 ---
 
 ### 4. DEEJA – Compliant AI Health Agent ⚕️🤖
 
-- Conversational health assistant offering structured symptom intake and **diagnostic guidance** (not diagnosis).  
-- Built with **compliance, privacy, and scope-awareness** at the core.  
-- Uses medically informed prompting and clear boundaries to ensure safe use.
-
-**Strength:**  
-I think seriously about **clinical safety and compliance**, not just “fun chatbots.”
+- Conversational assistant for structured symptom intake and **diagnostic guidance** (not diagnosis).  
+- Built with compliance, privacy-first design, and clear scope boundaries.  
+- Provides safe handoff paths to real medical providers.
 
 ---
 
 ### 5. AuxBattles – Social Music Battle App 🎧🔥
 
-- Multiplayer music game with categories, real-time voting, and elimination rounds.  
-- Designed to feel fun, social, and competitive — not just functional.
-
-**Focus Areas:**  
-Real-time game logic, user engagement loops, and seamless social UX.
+- Multiplayer music game with categories, voting, and elimination rounds.  
+- Designed for fun, social energy, and real-time interaction.  
+- Built with simple, effective game logic and engaging UX.
 
 ---
 
-## 📺 Content, Community & Impact
+## 📺 Community, Content & Impact
 
-- **YouTube** — Teaching AI & CS through real projects  
+- **YouTube** — teaching real AI & CS projects  
   - 150k+ views  
   - 10k+ watch hours  
   - 2,500+ subscribers  
-  - Brand collaborations with **Brilliant** and **Notion**  
-- **StudentCoders of VA** — Helping students build confidence through hands-on coding  
-- **BaLabs (AI Agency)** — Designing AI receptionists and operational agents for small businesses, turning technical solutions into real revenue impact
+  - Collaborations with **Brilliant** and **Notion**  
+- **StudentCoders of VA** — empowering students to build real-world projects  
+- **BaLabs** — building AI receptionists and operational AI agents for small businesses
 
 ---
 
-## 🎓 Certifications & Training
+## 🎓 Certifications & Education
 
 - **Microsoft Azure Advanced AI Engineer Certificate**  
 - **Harvard CS50 — Introduction to Computer Science**
 
 ---
 
-## 📌 What I’m Working On
+## 📌 Currently Working On
 
-- Improving the intelligence and safety of NelCura’s agents (Safeena & DEEJA)  
-- Exploring ways to expand AI-driven healthcare access across Africa  
-- Leveling up in systems design, MLOps, and scalable AI architectures
+- Enhancing NelCura’s healthcare AI agents (Safeena & DEEJA)  
+- Building AI tools to expand healthcare access across Africa  
+- Deepening skills in systems design, MLOps, and scalable AI architectures
 
 ---
 
@@ -149,9 +127,9 @@ Real-time game logic, user engagement loops, and seamless social UX.
 I’m always open to conversations about:
 
 - AI in healthcare  
-- RAG & agentic systems  
-- Data-driven storytelling  
-- Collaboration on content or open-source tools  
+- RAG & agent systems  
+- Social impact through technology  
+- Educational collaborations or open-source projects  
 
 **Reach out:**  
 - 📫 Email: _your email here_  
