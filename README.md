@@ -16,8 +16,8 @@
 - 🇺🇸 Born in **San Diego**, raised across **Mauritania** and **Senegal**, now building in the U.S. with a global, people-first mindset.  
 - 💻 I work at the intersection of **AI, healthcare, and accessibility**, designing systems that improve lives at scale.  
 - 🧠 I enjoy turning complex real-world problems into **clear, reliable, human-centered AI agents**.  
-- 🎥 I create project-focused AI & CS content on YouTube (150k+ views, 10k+ watch hours, 2,500+ subs) and collaborate with brands like **Brilliant** and **Notion**.  
-- 🌱 Founder of **StudentCoders of VA**, helping students build real projects and develop confidence in tech.
+-  I create project-focused AI & CS content on YouTube (150k+ views, 10k+ watch hours, 2,500+ subs) and collaborate with brands like **Brilliant** and **Notion**.  
+- Founder of **StudentCoders of VA**, helping students build real projects and develop confidence in tech.
 
 ---
 
