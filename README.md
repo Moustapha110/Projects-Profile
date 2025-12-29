@@ -65,23 +65,35 @@ A multiplayer music battle game where users compete by playing tracks in categor
 
 I build in **Python**, **TypeScript**, **Java**, and **SQL**. My work leans on **RAG**, **OCR**, prompt engineering, real-world agent design, evaluation pipelines, REST APIs, and **Azure AI** deployments. The cloud is where these systems run, but humans are where they land.
 
-Skills/Experience: 
-Languages: Python, TypeScript, Java, SQL, Bash
-AI Engineering: RAG pipelines, vector search, embeddings, prompt engineering, model evaluation, memory-aware agents, realistic conversational design, safe clinical handoff logic
-Machine Learning: Supervised regression/classification, clustering, feature engineering, data preprocessing, model metrics (accuracy, F1, precision/recall, RMSE), hyperparameter tuning, scikit-learn, XGBoost basics
-Deep Learning: Neural network design (CNN, RNN/LSTM/GRU, Transformers), backprop intuition, optimizers (Adam), regularization (dropout), normalization (batch norm), GPU training workflows, model quantization awareness
-Computer Vision: OCR + document intelligence, image classification, object detection/segmentation fundamentals, OpenCV experience, vision-language model intuition (CLIP-style pipelines), layout/structure extraction
-Backend & System Design: REST API design, FHIR-adjacent integrations, authentication flows, structured symptom/data intake design, logging, error handling, scalable backend architecture, microservice awareness
-Infra & Deployment: Docker containerization, CI/CD fundamentals, batching/inference optimization intuition, cloud AI architecture, Azure AI deployments, model hosting, monitoring, webhooks, API orchestration
-Data & Tooling: NumPy, Pandas, Matplotlib, vector DBs (Chroma-style knowledge stores), similarity search intuition, data curation, preprocessing pipelines
-Security & Compliance: Privacy-first system constraints, HIPAA-aware data boundaries, governance-driven AI scope design, compliant design mindset
-Collaboration & Product: Cross-team engineering communication, research documentation, AI product design for real users, dependency-aware systems, human-centered product thinking
+Skills Demonstrated Through Real Deployments:
+
+Languages
+Python · TypeScript · Java · SQL · Bash
+
+AI & ML
+RAG pipelines · embeddings · vector search · supervised learning (regression + classification) · clustering · feature engineering · model evaluation metrics (F1, precision/recall, RMSE) · hyperparameter tuning · XGBoost basics
+
+Deep Learning
+Neural networks · CNNs · Transformers · Adam optimizer intuition · Batch normalization · Dropout regularization · GPU training awareness · inference optimization intuition · model quantization understanding · batching logic
+
+Computer Vision & Document AI
+OCR pipelines · layout/structure extraction · image classification · object detection fundamentals · segmentation fundamentals · OpenCV experience · CLIP-style vision-language model intuition
+
+Backend & Systems
+REST API design · FHIR-adjacent healthcare data intake · authentication flows · logging and monitoring intuition · error handling discipline · scalable backend design · webhooks · containerized services with Docker
+
+Cloud & Deployment
+Azure AI services · model hosting · inference scaling awareness · Docker containerization · CI/CD fundamentals · deployments under security + reliability constraints
+
+Security & Governance
+HIPAA-aware data boundaries · AI scope governance · privacy-first system design · safe AI-to-human/physician handoff · compliance-driven architecture mindset
+
+Collaboration & Product
+Cross-team engineering communication · technical documentation · model roadmap writing · building AI products for real users · product-first psychology · community leadership
 
 ---
 
 ## Let’s Connect
-
-If you’re building AI like it’s the next layer of reality — agents in browsers, healthcare at scale, systems that think before they speak — then our paths rhyme. Reach out if the mission feels familiar.
 
 **Email:** moustocba@gmail.com
 **LinkedIn:** https://www.linkedin.com/in/moustapha-ba-598523241/
