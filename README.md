@@ -54,11 +54,28 @@ A multiplayer music battle game where users compete by playing tracks in categor
 
 150K+ YouTube views, 10K+ watch hours, 2.5K+ subscribers, a 2nd place MIT tournament finish, deployed AI in real healthcare environments, and communities + businesses relying on systems I built. The numbers aren’t the flex — the reliability behind them is.
 
+
+<p align="center">
+  <strong>Resume & Portfolio:</strong>
+  <a href="MoustaphaBa_RESUME_%20(1).pdf">Moustapha Ba — Resume</a>
+</p>
 ---
 
 ## The Stack Behind the Scenes
 
 I build in **Python**, **TypeScript**, **Java**, and **SQL**. My work leans on **RAG**, **OCR**, prompt engineering, real-world agent design, evaluation pipelines, REST APIs, and **Azure AI** deployments. The cloud is where these systems run, but humans are where they land.
+
+Skills/Experience: 
+Languages: Python, TypeScript, Java, SQL, Bash
+AI Engineering: RAG pipelines, vector search, embeddings, prompt engineering, model evaluation, memory-aware agents, realistic conversational design, safe clinical handoff logic
+Machine Learning: Supervised regression/classification, clustering, feature engineering, data preprocessing, model metrics (accuracy, F1, precision/recall, RMSE), hyperparameter tuning, scikit-learn, XGBoost basics
+Deep Learning: Neural network design (CNN, RNN/LSTM/GRU, Transformers), backprop intuition, optimizers (Adam), regularization (dropout), normalization (batch norm), GPU training workflows, model quantization awareness
+Computer Vision: OCR + document intelligence, image classification, object detection/segmentation fundamentals, OpenCV experience, vision-language model intuition (CLIP-style pipelines), layout/structure extraction
+Backend & System Design: REST API design, FHIR-adjacent integrations, authentication flows, structured symptom/data intake design, logging, error handling, scalable backend architecture, microservice awareness
+Infra & Deployment: Docker containerization, CI/CD fundamentals, batching/inference optimization intuition, cloud AI architecture, Azure AI deployments, model hosting, monitoring, webhooks, API orchestration
+Data & Tooling: NumPy, Pandas, Matplotlib, vector DBs (Chroma-style knowledge stores), similarity search intuition, data curation, preprocessing pipelines
+Security & Compliance: Privacy-first system constraints, HIPAA-aware data boundaries, governance-driven AI scope design, compliant design mindset
+Collaboration & Product: Cross-team engineering communication, research documentation, AI product design for real users, dependency-aware systems, human-centered product thinking
 
 ---
 
