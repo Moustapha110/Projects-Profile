@@ -15,7 +15,7 @@
 
 Born in San Diego, raised between Mauritania and Senegal, now building in the U.S. My path crosses continents, cultures, and classrooms, but always circles back to one truth: technology should reduce suffering, not complexity.
 
-That belief was sharpened by personal loss — a misdiagnosis in my family caused by limited medical technology. Now, my work is a vow written in code: build systems that catch what humans miss, and serve where access is scarce.
+That belief was sharpened by personal loss, a misdiagnosis in my family caused by limited medical technology. Now, my work is a vow written in code: build systems that catch what humans miss, and serve where access is scarce.
 
 ---
 
@@ -25,7 +25,7 @@ I’m a Computer Science student at **Virginia Tech** (Spring 2026 transfer), fo
 
 ---
 
-## What I Build (with proof baked in)
+## What I Build (with proof of impact)
 
 ### NelCura — Deployed AI Nurse & Triage Agents
 Two highly realistic AI nurse agents operating inside AI-powered mobile healthcare units. They collect structured symptom data, assess urgency, recommend next-step care, and hand off to licensed doctors with clear boundaries and privacy-first design. Built for limited-resource regions, where precision matters more than assumptions.
@@ -66,5 +66,5 @@ I build in **Python**, **TypeScript**, **Java**, and **SQL**. My work leans on *
 
 If you’re building AI like it’s the next layer of reality — agents in browsers, healthcare at scale, systems that think before they speak — then our paths rhyme. Reach out if the mission feels familiar.
 
-**Email:** _your email here_  
-**LinkedIn:** _your LinkedIn here_
+**Email:** moustocba@gmail.com
+**LinkedIn:** https://www.linkedin.com/in/moustapha-ba-598523241/
