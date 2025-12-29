@@ -21,8 +21,16 @@ That belief was sharpened by personal loss, a misdiagnosis in my family caused b
 
 ## Education
 
-I’m a Computer Science student at **Virginia Tech** (Spring 2026 transfer), focused on building strong foundations in systems, AI engineering, and scalable software.
+I’m a Computer Science student at **Virginia Tech**, planning on graduating in 2028. I am currently majoring in Computational Modeling and Data Analytics. 
 
+Impactful Member of the following clubs:
+
+Artificial Intelligence & Machine Learning Club – Virginia Tech
+Artificial Intelligence in Healthcare – VT Student Organization
+Cyber Security Club (CyberVT)
+VT Engage / The Big Event (Service & Community Impact)
+National Society of Black Engineers (NSBE) — VT Chapter
+ColorStack — VT Chapter (organization focused on academic support, mentorship, and career development for CS students from underrepresented backgrounds).
 ---
 
 ## What I Build (with proof of impact)
