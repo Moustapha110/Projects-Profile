@@ -2,137 +2,69 @@
 <h1 align="center">Welcome! I'm Moustapha Ba 👋</h1>
 
 <p align="center">
-  <b>AI Engineer · Healthcare Innovator · Builder of Human-Centered AI</b>
+  <b>AI Engineer · Healthcare Innovator · Builder of Human-Centered Systems</b>
 </p>
 
 <p align="center">
-  <em>Creating AI systems that feel supportive, safe, and genuinely helpful — especially for the communities I love most.</em>
+  <em>Engineering AI that works quietly in the background and loudly in people’s lives.</em>
 </p>
 
 ---
 
-## 🧭 About Me
+## Origin Story
 
-- 🇺🇸 Born in **San Diego**, raised across **Mauritania** and **Senegal**, now building in the U.S. with a global, people-first mindset.  
-- 💻 I work at the intersection of **AI, healthcare, and accessibility**, designing systems that improve lives at scale.  
-- 🧠 I enjoy turning complex real-world problems into **clear, reliable, human-centered AI agents**.  
--  I create project-focused AI & CS content on YouTube (150k+ views, 10k+ watch hours, 2,500+ subs) and collaborate with brands like **Brilliant** and **Notion**.  
-- Founder of **StudentCoders of VA**, helping students build real projects and develop confidence in tech.
+Born in San Diego, raised between Mauritania and Senegal, now building in the U.S. My path crosses continents, cultures, and classrooms, but always circles back to one truth: technology should reduce suffering, not complexity.
+
+That belief was sharpened by personal loss — a misdiagnosis in my family caused by limited medical technology. Now, my work is a vow written in code: build systems that catch what humans miss, and serve where access is scarce.
 
 ---
 
-## 🛠️ Tech Stack
+## Education
 
-**Languages**
-
-- Python · Java  
-- JavaScript / TypeScript  
-- SQL · basic NoSQL  
-- Git & GitHub  
-
-**AI & Data**
-
-- OpenAI APIs & Assistants  
-- Retrieval-Augmented Generation (RAG)  
-- Prompt engineering & evaluation  
-- Data cleaning & lightweight ML  
-
-**Cloud & Infra**
-
-- Microsoft Azure (AI services, deployments, security best practices)  
-- REST APIs · Webhooks  
-- Basic Docker & deployment workflows  
-
-**People & Product Skills**
-
-- Sales & communication  
-- Product thinking  
-- Teaching, curriculum design, and community leadership
+I’m a Computer Science student at **Virginia Tech** (Spring 2026 transfer), focused on building strong foundations in systems, AI engineering, and scalable software.
 
 ---
 
-## 🚀 Featured Projects
+## What I Build (with proof baked in)
 
-### 1. MIT Pokerbots – Competitive Poker AI 🤖♠️
+### NelCura — Deployed AI Nurse & Triage Agents
+Two highly realistic AI nurse agents operating inside AI-powered mobile healthcare units. They collect structured symptom data, assess urgency, recommend next-step care, and hand off to licensed doctors with clear boundaries and privacy-first design. Built for limited-resource regions, where precision matters more than assumptions.
 
-- Developed a poker-playing AI bot for the **MIT Pokerbots Tournament**.  
-- Competed against **90+ teams**, reaching **2nd place**.  
-- Engineered efficient logic for betting, risk modeling, and opponent adaptation.
+### MIT Pokerbots — Tournament-Tested Poker AI
+A competitive poker AI built with MIT students. Placed **2nd out of 90+ teams** in a live tournament under compute constraints. Engineered logic for betting strategy, risk modeling, and opponent adaptation.
 
----
+### IBA AI — Personal Caregiver Support Agent
+A human-aware autism support agent trained on real routines, triggers, preferences, and calming strategies. Built for caregivers who need consistency more than novelty, clarity more than flair, and privacy more than noise.
 
-### 2. IBA AI – Personalized Autism Support Chatbot 🧩❤️
+### SmartForm — OCR + Auto-Fill Document Intelligence
+A platform that reads PDFs and images, extracts structure using OCR and vision-language models, then fills forms automatically while saving validated answers for future reuse. Built to make paperwork feel like a one-time problem, not a life sentence.
 
-> Built for my autistic brother — now helping caregivers provide more consistent support.
+### StudentCoders of VA — Community Built on Shipping
+Founder of **StudentCoders of VA**, helping students build real CS + AI projects, craft portfolios, and replace the fear of starting with the confidence of doing.
 
-- Personalized chatbot trained on an individual’s routines, triggers, preferences, and calming strategies.  
-- Uses **OpenAI APIs**, custom datasets, and **RAG** for tailored, safe responses.  
-- Designed for emotional clarity, consistency, and privacy.
+### BaLabs — Realistic AI Receptionists & Business Agents
+At my AI agency **BaLabs**, I build AI receptionist and operational agents for SMBs. These agents handle calls, bookings, and lead qualification at scale and are extremely realistic — indistinguishable from humans. Human receptionists can’t outperform a system that never sleeps, never forgets context, and never sounds scripted.
 
----
-
-### 3. Safeena – NelCura Health Virtual Assistant 🩺🌍
-
-- A **24/7 healthcare AI assistant** supporting health questions, triage, and wellness guidance.  
-- Built with empathy, cultural awareness, and strong safety rails.  
-- Designed for **resource-limited environments**, where clinical access is limited.
+### AuxBattles — Social Music Battle App
+A multiplayer music battle game where users compete by playing tracks in categories, vote live, and advance through elimination rounds. Built for fun, social energy, and real-time interaction.
 
 ---
 
-### 4. DEEJA – Compliant AI Health Agent ⚕️🤖
+## Impact
 
-- Conversational assistant for structured symptom intake and **diagnostic guidance** (not diagnosis).  
-- Built with compliance, privacy-first design, and clear scope boundaries.  
-- Provides safe handoff paths to real medical providers.
+150K+ YouTube views, 10K+ watch hours, 2.5K+ subscribers, a 2nd place MIT tournament finish, deployed AI in real healthcare environments, and communities + businesses relying on systems I built. The numbers aren’t the flex — the reliability behind them is.
 
 ---
 
-### 5. AuxBattles – Social Music Battle App 🎧🔥
+## The Stack Behind the Scenes
 
-- Multiplayer music game with categories, voting, and elimination rounds.  
-- Designed for fun, social energy, and real-time interaction.  
-- Built with simple, effective game logic and engaging UX.
+I build in **Python**, **TypeScript**, **Java**, and **SQL**. My work leans on **RAG**, **OCR**, prompt engineering, real-world agent design, evaluation pipelines, REST APIs, and **Azure AI** deployments. The cloud is where these systems run, but humans are where they land.
 
 ---
 
-## 📺 Community, Content & Impact
+## Let’s Connect
 
-- **YouTube** — teaching real AI & CS projects  
-  - 150k+ views  
-  - 10k+ watch hours  
-  - 2,500+ subscribers  
-  - Collaborations with **Brilliant** and **Notion**  
-- **StudentCoders of VA** — empowering students to build real-world projects  
-- **BaLabs** — building AI receptionists and operational AI agents for small businesses
+If you’re building AI like it’s the next layer of reality — agents in browsers, healthcare at scale, systems that think before they speak — then our paths rhyme. Reach out if the mission feels familiar.
 
----
-
-## 🎓 Certifications & Education
-
-- **Microsoft Azure Advanced AI Engineer Certificate**  
-- **Harvard CS50 — Introduction to Computer Science**
-
----
-
-## 📌 Currently Working On
-
-- Enhancing NelCura’s healthcare AI agents (Safeena & DEEJA)  
-- Building AI tools to expand healthcare access across Africa  
-- Deepening skills in systems design, MLOps, and scalable AI architectures
-
----
-
-## 🤝 Let’s Connect
-
-I’m always open to conversations about:
-
-- AI in healthcare  
-- RAG & agent systems  
-- Social impact through technology  
-- Educational collaborations or open-source projects  
-
-**Reach out:**  
-- 📫 Email: _your email here_  
-- 💼 LinkedIn: _your LinkedIn here_  
-
-> If our missions align, I’d love to build something meaningful together.
+**Email:** _your email here_  
+**LinkedIn:** _your LinkedIn here_
