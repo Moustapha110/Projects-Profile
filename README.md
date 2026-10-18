@@ -14,17 +14,48 @@
 
 ---
 
-## Currently
+## Experience
 
-- **Kaalee** (Co-Founder and CTO): the first ever accurate Fulani AI voice system. About 80% transcription accuracy on Mauritanian Fulani in internal testing, in a language where major cloud providers report near 0% accuracy. Built as backbone infrastructure other companies can integrate to reach Fulani speakers.
-- **UNICEF** (AI/ML Engineer Intern, Summer 2026): built AI agents and ML prototypes for multilingual coverage of underserved West African languages.
-- **Axenta.AI** (Chief of AI Outbound Services): AI outbound and agent systems for U.S. businesses.
+### Kaalee, Co-Founder and CTO
+*The first ever accurate Fulani AI voice system*
 
-## Selected work
+- Built a Fulani NLP and ASR pipeline with PyTorch based deep learning, Amazon SageMaker training and Amazon Transcribe, Azure AI Speech Studio, and WaxalNLP datasets. About 80% transcription accuracy on Mauritanian Fulani in internal testing, with under 500ms real time inference, in a language where major providers report near 0% accuracy.
+- Deployed the production inference stack serverlessly on AWS (Lambda, API Gateway, S3, ECS/Fargate) with IAM least privilege roles, CloudWatch monitoring, Terraform and CloudFormation, and automated CI/CD.
+
+### Rise Hope Network 360 (RHN 360), Technical Co-Founder and Sole Architect
+*AI care coordination platform for special needs families, 2026 to present*
+
+- Architected a production grade platform with a live care graph, a dual AI agent system, real time voice infrastructure via Azure OpenAI WebSocket, and HIPAA aligned security on FastAPI, React, and AWS (RDS/Aurora, S3, IAM, VPC).
+- Built Ama and Sharon, two AI agents that onboard families conversationally, build complete care graphs in one session, and convert raw voice memos into structured clinical entries linked to providers, medications, and ISP goals across 10+ provider types.
+
+### UNICEF, Lead AI/ML Engineer Intern
+*Summer 2026*
+
+- Built and deployed AI agents and ML prototypes using WaxalNLP datasets, applying transformer based NLP, RAG pipelines, and LLM fine tuning to expand multilingual AI coverage for underserved West African languages, supporting UNICEF's digital inclusion mandate across 20+ countries.
+- Stood up the retrieval and evaluation layer on AWS: Amazon Bedrock for managed foundation model inference, OpenSearch for vector search, and S3 with Glue and Athena for dataset versioning and analysis.
+
+### Axenta.AI, Chief of AI Outbound Services
+*December 2025 to June 2026*
+
+- Owned strategy and engineering execution as executive AI lead of an outbound division inside a high revenue AI agency, running cross functional engineering and sales operations.
+- Architected and scaled generative AI outbound systems using LLM based automation, custom RAG pipelines, and agent orchestration on AWS serverless infrastructure (Lambda, API Gateway, DynamoDB, S3), powering AI driven sales infrastructure for hundreds of U.S. businesses.
+
+### Veuhtech, AI Solutions Engineer Intern
+*May 2025 to August 2025*
+
+- Reduced client manual workload by 40 to 60% by designing and deploying end to end AI voice agents on AWS, owning the pipeline from prompt engineering and system design through EC2 and Lambda deployment, CloudWatch monitoring, and IAM security, automating lead qualification and booking workflows.
+
+### Nivaro, AI Software Engineer Intern
+*2024*
+
+- Worked on the frontend of an AI startup's product and shipped the app to the Apple App Store.
+
+## Selected projects
 
 | Project | What it is | Stack |
 | --- | --- | --- |
 | **Kaalee** | Fulani speech recognition pipeline with a serverless production inference stack | PyTorch, SageMaker, AWS Lambda, API Gateway, ECS/Fargate, Terraform |
+| **RHN 360** | AI care coordination platform with a care graph and two AI agents | FastAPI, React, Azure OpenAI, AWS |
 | **CuraVox** | Voice first multilingual AI medication companion. 2nd place, Impiricus track, VTHacks 14 | TypeScript, voice AI |
 | **AuxBattles** | Real time multiplayer music battle game | React, TypeScript, Supabase |
 | **StudentCoders of Virginia** | Nonprofit I founded (2023 to 2025) that taught coding to disadvantaged students statewide | Education and community |
